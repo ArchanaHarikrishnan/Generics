@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedlistEx", "ConsoleApp6\LinkedlistEx.csproj", "{B41D285B-7F1A-42EC-9E44-5A6E45A0708E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictonarytoTupleEx", "..\..\..\..\..\Source C#\DictonarytoTupleEx\DictonarytoTupleEx.csproj", "{FD7AF97D-7BC6-4053-ACE5-9AEE3379AEE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41D285B-7F1A-42EC-9E44-5A6E45A0708E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41D285B-7F1A-42EC-9E44-5A6E45A0708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41D285B-7F1A-42EC-9E44-5A6E45A0708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41D285B-7F1A-42EC-9E44-5A6E45A0708E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7AF97D-7BC6-4053-ACE5-9AEE3379AEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7AF97D-7BC6-4053-ACE5-9AEE3379AEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7AF97D-7BC6-4053-ACE5-9AEE3379AEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7AF97D-7BC6-4053-ACE5-9AEE3379AEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5703B3-1844-4125-9949-384ACBA8EF22}
+	EndGlobalSection
+EndGlobal
